@@ -6,7 +6,7 @@ class TemplateController{
 
 	public function index(){
 
-		include "views/template.php";
+		include "views/vistaprincipal.php";
 	}
 
 	/*=============================================
