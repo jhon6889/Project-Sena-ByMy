@@ -12,7 +12,7 @@ class Connection{
 
 		$infoDB = array(
 
-			"database" => "dbsena",
+			"database" => "MyWeb",
 			"user" => "root",
 			"pass" => ""
 
